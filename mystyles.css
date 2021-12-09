@@ -1,0 +1,28 @@
+h1 {
+    color:navy;
+}
+
+h2 {
+    color: navy;
+}
+
+h3 {
+    background-color: lightgray;
+}
+
+.subheading {
+    color: lightblue;
+}
+
+li {
+    font-weight: bold;
+}
+
+main {
+    background-color:gray;
+}
+
+.footer1 {
+    text-align: center;
+    background-color: darkgoldenrod;
+}
